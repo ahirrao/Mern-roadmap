@@ -1,7 +1,7 @@
 # Mern-roadmap
 🚀 MERN Stack Roadmap (Beginner to Advanced)
 
-A complete step-by-step roadmap to become a MERN Stack Developer by mastering:
+A complete step-by-step roadmap to become a MERN Stack Developer by mastering
 
 MongoDB
 
